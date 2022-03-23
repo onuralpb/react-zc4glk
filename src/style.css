@@ -1,0 +1,15 @@
+h1,
+p {
+  font-family: Lato;
+}
+.deneme {
+  padding: 20px;
+}
+.card {
+  margin: 20px 0 0 0;
+  background: rgb(243, 250, 239);
+  border-color: rgb(145, 241, 145);
+}
+.alert {
+  margin-top: 20px;
+}
